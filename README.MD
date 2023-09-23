@@ -8,4 +8,4 @@ We Can Find Weather Of The City By Searching It.
 
 ## License
 
-[MIT License] (LICENSE)
+[MIT License] (./LICENSE)
